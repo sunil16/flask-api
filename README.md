@@ -10,6 +10,8 @@ install all requiremnts : $pip3 install requiremnts.text
 
 Create database with Name : grexter
 
+Go to confi directory update credentials : $cd conf -> local.ini
+
 Go to project directory : $cd grexter -> $python3 app.py
 
 
